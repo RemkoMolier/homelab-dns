@@ -1,0 +1,13 @@
+{
+    "none": { 
+        "TYPE": "NONE" 
+    },
+    "infra": {
+        "TYPE": "BIND",
+        "directory": "infra/master"
+    },
+    "infra_dynamic": {
+        "TYPE": "BIND",
+        "directory": "infra/dynamic"
+    }
+}

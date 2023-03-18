@@ -1,0 +1,6 @@
+$TTL 86400
+; generated with dnscontrol 2023-03-18T17:34:29+01:00
+@                IN SOA   home.molier.net. hostmaster.infra.home.molier.net. 2023031801 10800 15 604800 10800
+           300   IN NS    ns.infra.home.molier.net.
+infra            IN NS    ns.infra.home.molier.net.
+router           IN A     172.16.0.1
